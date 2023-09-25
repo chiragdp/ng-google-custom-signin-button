@@ -1,6 +1,6 @@
-# SocialSso
+# Angular Custom Google SSO Button Implementation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+This Angular project demonstrates a customized implementation of Google Sign-In using Angular components. By integrating the Google Sign-In API, this application provides a seamless authentication experience for users.
 
 ## Development server
 
